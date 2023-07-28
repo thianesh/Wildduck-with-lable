@@ -1,1 +1,1 @@
-# Wildduck mail server with lable
+# Wildduck mail server with label
